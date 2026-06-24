@@ -1,0 +1,14 @@
+# lamu_g-user 15 VVTA35.51-153 cebf3c release-keys
+- manufacturer: motorola
+- platform: mt6768
+- codename: lamu
+- flavor: lamu_sys-user
+- release: 15
+- id: VVTA35.51-153
+- incremental: cebf3c
+- tags: release-keys
+- fingerprint: motorola/lamu_g/lamu:15/VVTA35.51-153/cebf3c:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: lamu_g-user-15-VVTA35.51-153-cebf3c-release-keys
+- repo: motorola_lamu_dump
